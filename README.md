@@ -990,7 +990,7 @@ Gemma 2 9B
 ### Small Linux / everyday question
 
 ```text
-Gemma / Mistral / small generalist
+Gemma / Mistral (or whichever other small general-purpose model is loaded)
 ```
 
 ### Writing Python or SQL code
