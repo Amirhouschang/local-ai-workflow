@@ -10,7 +10,7 @@ This README describes my own use of AI for data analysis, Python, SQL, documenta
 
 I'm not an AI engineer and I don't want to pretend to be one. I use AI as a tool. Some things it does extremely fast. Some things it does convincingly wrong. Both are important to know.
 
-I never bought this laptop with local AI in mind — it's simply the laptop I happen to use for that now — and at the time I had no intention of running local AI or becoming an AI engineer. In fact, it does not even have a dedicated GPU, which is one of the most important components for running AI models efficiently.
+I never bought my laptop with local AI in mind — it's simply the laptop I happen to use for that now — and at the time I had no intention of running local AI or becoming an AI engineer. In fact, it does not even have a dedicated GPU, which is one of the most important components for running AI models efficiently.
 
 My most important principle is therefore:
 
