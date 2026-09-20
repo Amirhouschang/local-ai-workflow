@@ -1,5 +1,8 @@
 # Wie ich lokale und Cloud-KI tatsächlich benutze
 
+**English:** [README.md](README.md)
+
+
 > **Persönlicher Praxisbericht – kein allgemeiner KI-Benchmark**  
 > Stand: September 2026
 
