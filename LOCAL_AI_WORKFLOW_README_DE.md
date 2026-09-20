@@ -992,7 +992,7 @@ Gemma 2 9B
 ### Kleine Linux-/Alltagsfrage
 
 ```text
-Gemma / Mistral / kleiner Generalist
+Gemma / Mistral (oder ein anderes kleines Allzweckmodell, das gerade geladen ist)
 ```
 
 ### Python- oder SQL-Code schreiben
