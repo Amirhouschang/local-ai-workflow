@@ -1,5 +1,8 @@
 # How I Actually Use Local and Cloud AI
 
+**Deutsch:** [LOCAL_AI_WORKFLOW_README_DE.md](LOCAL_AI_WORKFLOW_README_DE.md)
+
+
 > **Personal practice report – not a general AI benchmark**  
 > As of: September 2026
 
