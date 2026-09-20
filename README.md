@@ -18,8 +18,6 @@ My most important principle is therefore:
 
 That applies to local models just as much as to cloud AI.
 
-> *(This is the English translation of my personal local/cloud AI workflow writeup; the German original covers the same content.)*
-
 ## Table of Contents
 
 - [Summary](#summary)
