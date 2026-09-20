@@ -10,7 +10,7 @@ Dieses README beschreibt meinen eigenen Umgang mit KI bei Datenanalyse, Python, 
 
 Ich bin kein KI-Ingenieur und will auch nicht so tun. Ich benutze KI als Werkzeug. Manche Dinge macht sie extrem schnell. Manche Dinge macht sie überzeugend falsch. Beides ist wichtig zu wissen.
 
-Diesen Laptop habe ich nicht mit Blick auf lokale KI gekauft. Zum Kaufzeitpunkt hatte ich weder vor, lokale KI zu betreiben, noch KI-Ingenieur zu werden. Er hat nicht einmal eine dedizierte GPU – eine der wichtigsten Komponenten, um KI-Modelle effizient laufen zu lassen.
+Ich habe meinen jetzigen Laptop nicht mit Blick auf lokale KI gekauft. Zum Kaufzeitpunkt hatte ich weder vor, lokale KI zu betreiben, noch KI-Ingenieur zu werden. Er hat nicht einmal eine dedizierte GPU – eine der wichtigsten Komponenten, um KI-Modelle effizient laufen zu lassen.
 
 Mein wichtigster Grundsatz ist deshalb:
 
