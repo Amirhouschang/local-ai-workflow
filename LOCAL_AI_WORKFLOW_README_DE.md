@@ -18,8 +18,6 @@ Mein wichtigster Grundsatz ist deshalb:
 
 Das gilt für lokale Modelle genauso wie für Cloud-KI.
 
-> English version: `LOCAL_AI_WORKFLOW_README_EN.md`
-
 ## Inhaltsverzeichnis
 
 - [Kurzfassung](#kurzfassung)
