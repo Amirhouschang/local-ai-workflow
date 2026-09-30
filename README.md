@@ -600,7 +600,7 @@ These timings are **not standardized benchmarks**. They are single real runs on 
 | Rewriting Pandas code | Qwen2.5 32B | ca. 4:10 min | usable, but one fragile part |
 | Rewriting Pandas code | Qwen3.6 27B | ca. 20:44 min | logically clean, extremely slow |
 | Multi-bug Pandas | Qwen3-Coder 30B | ca. 1:44 min | caught several real issues, but introduced new bugs in the fix |
-| Multi-bug Pandas | Qwen2.5 32B | ca. 5:35 min | didn't cleanly fix the central merge problem |
+| Multi-bug Pandas | Qwen2.5 32B | ca. 5:35 min | didn't recognize the central merge problem |
 | Multi-bug Pandas | Qwen3.6 27B | ca. 18:24 min | best logic and clean fix |
 | 4 language/everyday questions | Mistral Small 3.1 | ca. 3:38 min total | linguistically very good |
 
