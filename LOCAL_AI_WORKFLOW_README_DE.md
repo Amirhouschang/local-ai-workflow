@@ -602,7 +602,7 @@ Diese Zeiten sind **keine standardisierten Benchmarks**. Sie sind einzelne reale
 | Pandas-Code neu schreiben | Qwen2.5 32B | ca. 4:10 min | brauchbar, aber fragiler Teil |
 | Pandas-Code neu schreiben | Qwen3.6 27B | ca. 20:44 min | logisch sauber, extrem langsam |
 | Mehrfach-Bug-Pandas | Qwen3-Coder 30B | ca. 1:44 min | mehrere echte Punkte erkannt, aber neue Fehler im Fix |
-| Mehrfach-Bug-Pandas | Qwen2.5 32B | ca. 5:35 min | zentrale Merge-Problematik nicht sauber behoben |
+| Mehrfach-Bug-Pandas | Qwen2.5 32B | ca. 5:35 min | zentrale Merge-Problematik nicht erkannt |
 | Mehrfach-Bug-Pandas | Qwen3.6 27B | ca. 18:24 min | beste Logik und sauberer Fix |
 | 4 Sprach-/Alltagsfragen | Mistral Small 3.1 | ca. 3:38 min gesamt | sprachlich sehr gut |
 
