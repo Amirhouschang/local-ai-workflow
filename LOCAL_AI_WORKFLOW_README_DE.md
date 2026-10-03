@@ -1,8 +1,8 @@
 # Wie ich lokale und Cloud-KI tatsächlich benutze
 
-**English:** [README.md](README.md)
+[English](README.md) | **Deutsch** | [Modelltests](MODELLTESTS_DE.md)
 
-> **Persönlicher Praxisbericht – kein allgemeiner KI-Benchmark**
+> **Persönlicher Praxisbericht – kein allgemeiner KI-Benchmark**  
 > Stand: Oktober 2026
 
 Dieses README beschreibt, wie ich mit KI an meinen Datenprojekten arbeite: von der ersten Frage bis zur letzten Prüfung. Es gilt für meine Projekte, meine Werkzeuge und meine Arbeitsweise.

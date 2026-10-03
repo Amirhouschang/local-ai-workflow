@@ -1,8 +1,8 @@
 # Local AI Models: Tests, Timings and Results
 
-**Back to the overview:** [How I Actually Use Local and Cloud AI](README.md) · **Deutsch:** [MODELLTESTS_DE.md](MODELLTESTS_DE.md)
+**English** | [Deutsch](MODELLTESTS_DE.md) | [← Back to the overview](README.md)
 
-> **Personal practice report – not a general AI benchmark**
+> **Personal practice report – not a general AI benchmark**  
 > Tests as of: September 2026
 
 The overview describes how I work with AI on my projects. This file contains the technical part: which local language models I tested with Ollama, with which tasks, how long they took, which mistakes they made, and which model I use for what today.

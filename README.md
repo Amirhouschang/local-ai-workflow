@@ -1,8 +1,8 @@
 # How I Actually Use Local and Cloud AI
 
-**Deutsch:** [LOCAL_AI_WORKFLOW_README_DE.md](LOCAL_AI_WORKFLOW_README_DE.md)
+**English** | [Deutsch](LOCAL_AI_WORKFLOW_README_DE.md) | [Model tests](MODEL_TESTS.md)
 
-> **Personal practice report – not a general AI benchmark**
+> **Personal practice report – not a general AI benchmark**  
 > As of: October 2026
 
 This README describes how I work with AI on my data projects: from the first question to the last check. It applies to my projects, my tools and my way of working.

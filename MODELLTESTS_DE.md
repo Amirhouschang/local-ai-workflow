@@ -1,8 +1,8 @@
 # Lokale KI-Modelle: Tests, Zeiten und Ergebnisse
 
-**Zurück zur Übersicht:** [Wie ich lokale und Cloud-KI tatsächlich benutze](LOCAL_AI_WORKFLOW_README_DE.md) · **English:** [MODEL_TESTS.md](MODEL_TESTS.md)
+[English](MODEL_TESTS.md) | **Deutsch** | [← Zurück zur Übersicht](LOCAL_AI_WORKFLOW_README_DE.md)
 
-> **Persönlicher Praxisbericht – kein allgemeiner KI-Benchmark**
+> **Persönlicher Praxisbericht – kein allgemeiner KI-Benchmark**  
 > Stand der Tests: September 2026
 
 Die Übersicht beschreibt, wie ich mit KI an meinen Projekten arbeite. Diese Datei enthält den technischen Teil dazu: Welche lokalen Sprachmodelle ich mit Ollama getestet habe, mit welchen Aufgaben, wie lange sie gebraucht haben, welche Fehler sie gemacht haben und welches Modell ich heute wofür nehme.
