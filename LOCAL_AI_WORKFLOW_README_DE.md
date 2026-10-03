@@ -143,7 +143,7 @@ Das ist allgemeines Grundwissen, und ich mache es bei jedem Projekt.
 
 Ich gehe meine Fragen eine nach der anderen durch. Jede Frage bekommt ihren eigenen Schritt und ihren eigenen Code.
 
-Das gilt auch für die Arbeit mit der KI selbst. Wenn es mehrere Punkte gibt, soll die KI einen Punkt nach dem anderen behandeln: erst wenn ein Punkt ganz erledigt ist, kommt der nächste. Das muss ich ihr in jedem Projekt mehrmals sagen, was ziemlich lästig ist.
+Das gilt auch für die Arbeit mit der KI selbst. Wenn es mehrere Punkte gibt, soll die KI einen Punkt nach dem anderen behandeln: erst wenn ein Punkt ganz erledigt ist, kommt der nächste. Das muss ich ihr in jedem Projekt mehrmals sagen. Das ist ein bisschen nervig, gehört bei KI aber dazu.
 
 Gleichzeitig ist die KI genau hier eine große Hilfe. In der Regel kommen mehrere Fragen auf einmal. Die KI hilft mir, Fragen, die nichts miteinander zu tun haben, getrennt zu behandeln und am Ende das Ergebnis zusammen zu sehen.
 
@@ -200,9 +200,9 @@ In einem Projekt stecken auf diese Weise viele Stunden: manchmal 20, manchmal 50
 
 Das Datum eines Repos zeigt nicht, wann die Arbeit begonnen hat. Ein Projekt kommt erst auf GitHub, wenn es zu etwa 90 % fertig ist.
 
-Dass alle Repos seit September 2026 entstanden sind, hat einen einfachen Grund: Im September habe ich angefangen, mein Portfolio aufzubauen. Bei einigen Themen war ein Teil der Arbeit schon vorher erledigt. Im September habe ich dann Tag und Nacht gearbeitet, um die Projekte nacheinander fertigzustellen und zu veröffentlichen.
+Dass alle Repos seit September 2026 entstanden sind, hat einen einfachen Grund: Im September habe ich angefangen, mein Portfolio aufzubauen. Bei einigen Themen war ein Teil der Arbeit schon vorher erledigt. Im September habe ich die Projekte dann nacheinander fertiggestellt und veröffentlicht.
 
-Manche Projekte laufen parallel. Wenn die lokale KI zum Beispiel stundenlang Texte analysiert, warte ich nicht ab. Ich arbeite am nächsten Projekt und erledige zwischendurch Kleinigkeiten am ersten. Wer sich wundert, woher die Zeit kommt: Jeder Tag hat 24 Stunden, und das Wochenende hat zwei Tage.
+Manche Projekte laufen parallel. Wenn die lokale KI zum Beispiel stundenlang Texte analysiert, warte ich nicht ab. Ich arbeite am nächsten Projekt und erledige zwischendurch Kleinigkeiten am ersten.
 
 Die meiste Zeit arbeite ich aber an einem Projekt, bis es fertig ist. Mein Fokus ist besser, wenn ich nur eine Aufgabe habe und nicht mehrere gleichzeitig.
 

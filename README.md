@@ -143,7 +143,7 @@ This is general basic knowledge, and I do it in every project.
 
 I go through my questions one after the other. Every question gets its own step and its own code.
 
-The same applies to working with the AI itself. If there are several points, the AI should handle one point after the other: only when one point is completely done does the next one come. I have to tell it this several times in every project, which is quite annoying.
+The same applies to working with the AI itself. If there are several points, the AI should handle one point after the other: only when one point is completely done does the next one come. I have to tell it this several times in every project. That is a bit annoying, but it is part of working with AI.
 
 At the same time, the AI is a great help exactly here. Usually several questions come up at once. The AI helps me to handle questions that have nothing to do with each other separately, and to see the result together at the end.
 
@@ -200,9 +200,9 @@ A project takes many hours this way: sometimes 20, sometimes 50 or more, and for
 
 The date of a repository does not show when the work began. A project only goes to GitHub when it is about 90% finished.
 
-There is a simple reason why all repositories were created from September 2026 onwards: in September I started to build my portfolio. For some topics, part of the work had already been done before. In September I then worked day and night to finish the projects one after the other and publish them.
+There is a simple reason why all repositories were created from September 2026 onwards: in September I started to build my portfolio. For some topics, part of the work had already been done before. In September I then finished the projects one after the other and published them.
 
-Some projects run in parallel. When the local AI analyses texts for hours, for example, I do not wait. I work on the next project and do small things on the first one in between. For anyone who wonders where the time comes from: every day has 24 hours, and the weekend has two days.
+Some projects run in parallel. When the local AI analyses texts for hours, for example, I do not wait. I work on the next project and do small things on the first one in between.
 
 Most of the time, however, I work on one project until it is finished. My focus is better when I have only one task and not several at the same time.
 
